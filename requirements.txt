@@ -1,0 +1,4 @@
+django
+streamlit
+numpy
+psycopg2-binary
